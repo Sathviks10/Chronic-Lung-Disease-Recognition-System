@@ -396,24 +396,24 @@ This project is based on research in medical imaging and explainable AI:
 
 ### Team Members
 
-**Priyadharshini S**  
-Dept. of Artificial Intelligence and Machine Learning  
-Saveetha Engineering College  
-Chennai, India  
-📧 priyadivyapriyadivya225@gmail.com
+**Sathvik S**  
+Faculty of Engineering and Technology
+Department of Computer Science and Engineering
+Artificial intelligence and Machine learning
+Ramaiah University of Applied Sciences
 
-**Dharshan D**  
-Dept. of Artificial Intelligence and Data Science  
-Saveetha Engineering College  
-Chennai, India  
-📧 dharshandhiren@gmail.com
 
-**Sanjai L**  
-Dept. of Artificial Intelligence and Data Science  
-Saveetha Engineering College  
-Chennai, India  
-📧 sanjaiofficial@gmail.com
+**Surya P R**  
+ Faculty of Engineering and Technology
+Department of Computer Science and Engineering
+Artificial intelligence and Machine learning
+Ramaiah University of Applied Sciences
 
+**Dev U**  
+Faculty of Engineering and Technology
+Department of Computer Science and Engineering
+Artificial intelligence and Machine learning
+Ramaiah University of Applied Sciences
 
 
 ---
