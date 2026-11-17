@@ -223,17 +223,8 @@ def generate_lime_explanation(model, image_path, preprocess_transform):
 ### Setup
 
 ```bash
-# Clone the repository
-git clone https://github.com/yourusername/XAI-Lung-Disease-Recognition.git
-cd XAI-Lung-Disease-Recognition
-
-# Create virtual environment
-python -m venv .venv
-.venv\Scripts\activate  # Windows
-# source .venv/bin/activate  # Linux/Mac
-
-# Install dependencies
-pip install -r requirements.txt
+ git clone https://github.com/Sathviks10/Chronic-Lung-Disease-Recognition-System.git
+cd Chronic-Lung-Disease-Recognition-System
 ```
 
 ### Download Dataset
